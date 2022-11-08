@@ -1,0 +1,6 @@
+---
+
+# no vars needed for  amd64 architecture.
+
+# default is amd64
+# architecture: 'amd64'

@@ -1,0 +1,6 @@
+[docker]
+# docker_node
+
+
+[all:vars]
+# ansible_user=user
